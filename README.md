@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 👂 My name is 😶‍🌫️
-* 🔭 I’m currently working on Web Dev at Imail France
+* 🔭 I’m currently working on ASP .NET at Imail France
 * 🌱 I’m currently learning to be better
 * 📫 How to reach me: diego.pro.villanueva@gmail.com
 * ❤️ I love play video games
