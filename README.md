@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+* 👂 My name is 😶‍🌫️
+* 🔭 I’m currently working on Web Dev at Imail France
+* 🌱 I’m currently learning to be better
+* 📫 How to reach me: diego.pro.villanueva@gmail.com
+* ❤️ I love play video games
 <!--
 **Di4nier/Di4nier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
