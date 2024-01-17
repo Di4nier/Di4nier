@@ -7,6 +7,7 @@ Passionné par le code et l'innovation, je suis un développeur informatique .NE
 <div style="text-align: center;">
   <img src="https://diego-villanueva.web.app/Images/Accueil/memarioooo.png" alt="Développeur Informatique" style="width: fit-content; height: 14rem; border: 2px solid #fff; margin: auto;">
 </div>
+
 ## Compétences 💻
 
 - **Langages de programmation :** JavaScript, TypeScript, C#, Python, JQuery
