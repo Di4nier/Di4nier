@@ -4,6 +4,8 @@
 
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
+![Développeur Informatique](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <p align="center">
   <img src="https://diego-villanueva.web.app/Images/coding.png" alt="Mobile" style="width: fit-content; height: 7rem;">
   <img src="https://diego-villanueva.web.app/Images/Accueil/memarioooo.png" alt="Développeur Informatique" style="width: fit-content; height: 16rem;">
