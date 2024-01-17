@@ -4,7 +4,7 @@
 
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
-![Développeur Informatique](https://diego-villanueva.web.app/Images/Accueil/memarioooo.png){:height="36px" width="36px"}
+![Développeur Informatique](https://diego-villanueva.web.app/Images/Accueil/memarioooo.png)
 
 ## Compétences 💻
 
