@@ -5,8 +5,9 @@
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif" alt="background" style="width: 100rem; height: 16rem;">
+  <img src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif" alt="background" style="width: 100rem; height: 16rem;">
 </p>
+
 
 <p align="center">
   <img src="https://diego-villanueva.web.app/Images/coding.png" alt="Mobile" style="width: fit-content; height: 7rem;">
