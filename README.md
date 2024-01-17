@@ -5,7 +5,7 @@
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*HKRUQ9d4r33oSwTULSRxRg.gif" alt="background" style="height: 16rem;">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*HKRUQ9d4r33oSwTULSRxRg.gif" alt="background" style="width: 50rem; height: 16rem;">
 </p>
 
 <p align="center">
