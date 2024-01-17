@@ -57,7 +57,7 @@ Technoogies Utilisées : HTML / CSS / JavaScript / Git
 
 ## Projets Scolaires 🚀
 
-### [Duel Of Trolls](https://gsbprojectbjd.web.app/](http://www-etu-info.iut2.upmf-grenoble.fr/~villanud/info7/accueil)
+### [Duel Of Trolls](http://www-etu-info.iut2.upmf-grenoble.fr/~villanud/info7/accueil)
 
 L’éditeur de jeux « Bizzard » aimerait que vous réalisiez un éditeur de troll pour son futur jeu en
 ligne « duel de trolls ». Sur votre conseil, cet éditeur sera une application client riche réalisée à
