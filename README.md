@@ -5,10 +5,6 @@
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="background" style="width: 65rem; height: 20rem">
-</p>
-
-<p align="center" style="padding-bottom: 40rem;">
   <img src="https://diego-villanueva.web.app/Images/coding.png" alt="Mobile" style="width: fit-content; height: 7rem;">
   <img src="https://diego-villanueva.web.app/Images/Accueil/memarioooo.png" alt="Développeur Informatique" style="width: fit-content; height: 16rem;">
   <img src="https://diego-villanueva.web.app/Images/dish.png" alt="Symbol" style="width: fit-content; height: 7rem;">
@@ -34,7 +30,7 @@ La platefrome LMS est une plateforme de e-learning pour pouvoir gérer une base 
 Technoogies Utilisées : ASP .NET 6 MVC / HTML / CSS / C# / Bootstrap / JQuery / SQL / Azure / JavaScript / Git
 
 
-### [B.O.CKET]![BOCKET](https://diego-villanueva.web.app/Images/stage/bocket.png)
+### [B.O.CKET](https://www.6xpos.fr/)
 
 Au cours de mon stage en première année de BTS, d'un CDD suivant ce stage, d'un stage en deuxième année de BTS, j'ai eu l'opportunité de développer une application mobile appelée "Bocket" avec .NET MAUI. En utilisant cette technologie moderne, j'ai contribué à la conception et à la mise en œuvre de l'application, démontrant mes compétences en programmation C# et ma capacité à travailler au sein d'une équipe technique. Cette expérience a renforcé ma passion pour le développement logiciel et enrichi mon parcours en informatique.
 
@@ -42,7 +38,7 @@ L'objectif de l'application mobile a été de développée en mobile un service 
 
 Technoogies Utilisées : .NET MAUI / C# / XAML / SQL / Git
 
-### [BO]
+### [BO](https://www.6xpos.fr/)
 
 Au cours d'un CDD en développement, j'ai développé une web app, migrée de .NET 4 à .NET 6, dédiée à la gestion des stocks pour les clients de l'entreprise. La nouvelle version permet d'offrir une interface back office améliorée pour une expérience plus fluide et moderne.
 
