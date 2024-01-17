@@ -4,8 +4,8 @@
 
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="background" style="width: 60rem; height: 20rem;position:absolute;">
+<p align="center" position="absolute">
+  <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="background" style="width: 60rem; height: 20rem;">
 </p>
 
 <p align="center">
