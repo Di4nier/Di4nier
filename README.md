@@ -72,7 +72,8 @@ Passionné par le code et l'innovation, je suis un développeur informatique .NE
 
 ## Projets Notables 🚀
 
-### [PLATEFORME LMS 2023](https://lms.imail-france.net/)
+### [PLATEFORME LMS 2023](https://lms.imail-france.net/)  
+<img src="https://lms.imail-france.net/Ressources/Contenus/4e4cdfdd-a954-4b3d-8bbc-a5cf65daab8d/vignette.png" alt="lms" width="40" height="40"/>
 
 Au cours de la premiere partie de mon alternance, j'ai effectué la refonte d'une WebApp déja existante en ASP .NET (de 4.5 à 6), j'ai pu mieux comprendre les couches de développement et solidifer mon expérience dans l'environnement .NET.
 
