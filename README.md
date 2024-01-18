@@ -73,7 +73,6 @@ Passionné par le code et l'innovation, je suis un développeur informatique .NE
 ## Projets Notables 🚀
 
 ### [PLATEFORME LMS 2023](https://lms.imail-france.net/)  
-<img src="https://lms.imail-france.net/Ressources/Contenus/4e4cdfdd-a954-4b3d-8bbc-a5cf65daab8d/vignette.png" alt="lms" width="40" height="40"/>
 
 Au cours de la premiere partie de mon alternance, j'ai effectué la refonte d'une WebApp déja existante en ASP .NET (de 4.5 à 6), j'ai pu mieux comprendre les couches de développement et solidifer mon expérience dans l'environnement .NET.
 
@@ -81,8 +80,8 @@ La platefrome LMS est une plateforme de e-learning pour pouvoir gérer une base 
 
 Technoogies Utilisées : ASP .NET 6 MVC / HTML / CSS / C# / Bootstrap / JQuery / SQL / Azure / JavaScript / Git
 
-
 ### [B.O.CKET](https://www.6xpos.fr/)
+<img src="https://diego-villanueva.web.app/Images/stage/bocket.png" alt="bocket" width="40" height="40"/>
 
 Au cours de mon stage en première année de BTS, d'un CDD suivant ce stage, d'un stage en deuxième année de BTS, j'ai eu l'opportunité de développer une application mobile appelée "Bocket" avec .NET MAUI. En utilisant cette technologie moderne, j'ai contribué à la conception et à la mise en œuvre de l'application, démontrant mes compétences en programmation C# et ma capacité à travailler au sein d'une équipe technique. Cette expérience a renforcé ma passion pour le développement logiciel et enrichi mon parcours en informatique.
 
@@ -91,6 +90,7 @@ L'objectif de l'application mobile a été de développée en mobile un service 
 Technoogies Utilisées : .NET MAUI / C# / XAML / SQL / Git
 
 ### [BO](https://www.6xpos.fr/)
+<img src="https://www.6xpos.fr/wp-content/uploads/2021/08/6Xpos-logo-2020_signe-quadri-noir.jpg" alt="BO" width="40" height="40"/>
 
 Au cours d'un CDD en développement, j'ai développé une web app, migrée de .NET 4 à .NET 6, dédiée à la gestion des stocks pour les clients de l'entreprise. La nouvelle version permet d'offrir une interface back office améliorée pour une expérience plus fluide et moderne.
 
@@ -98,6 +98,8 @@ Technoogies Utilisées : ASP .NET 6 MVC / HTML / CSS / C# / Bootstrap / JQuery /
 
 
 ### [Portfolio](https://diego-villanueva.web.app/)
+<img src="https://cdn-icons-png.flaticon.com/512/686/686104.png" alt="portfolio" width="40" height="40"/>
+
 
 En cours de BTS, j'ai entrepris la création d'un portfolio en ligne, un projet qui demandait l'utilisation de langages de programmation et j'ai choisi HTML, CSS et JavaScript. Mon portfolio, entièrement développé par mes soins, se présente comme une représentation complète et interactive de mon parcours professionnel et académique. Il agit essentiellement comme une synthèse dynamique de mon CV, démontrant mes compétences en programmation et ma capacité à présenter de manière concise et visuelle mes réalisations et qualifications. (mon portfolio est responsive 😃)
 
@@ -106,6 +108,8 @@ Technoogies Utilisées : HTML / CSS / JavaScript / Git
 ## Projets Scolaires 🚀
 
 ### [Duel Of Trolls](http://www-etu-info.iut2.upmf-grenoble.fr/~villanud/info7/accueil)
+<img src="http://www-etu-info.iut2.upmf-grenoble.fr/~villanud/info7/assets/logofr.jpg" alt="duel of trolls" width="40" height="40"/>
+
 
 L’éditeur de jeux « Bizzard » aimerait que vous réalisiez un éditeur de troll pour son futur jeu en
 ligne « duel de trolls ». Sur votre conseil, cet éditeur sera une application client riche réalisée à
@@ -130,6 +134,7 @@ Technoogies Utilisées : Angular / CSS / TypeScript / Firebase / NoSQL / Git / H
 
 
 ### [Tikker](https://projet-tikker.web.app/)
+<img src="https://projet-tikker.web.app/icon.ico" alt="tikker" width="40" height="40"/>
 
 Nous sommes l’entreprise CréaTik, une petite équipe (- de 10 salariés), spécialisée dans le développement d’applications mobiles, web et de sites internets. Nous avons récemment été contacté par un boulanger pour lui construire un site vitrine afin que ses clients puissent avoir un aperçu de ses créations. Lors de cette prise de contact, trois de nos employés ont eu une idée : Créer un réseau social permettant la mise en relation entre des professionnels du monde de l’informatique (Développeurs, Administrateur Réseaux, Cyber Security Specialist …) et des particuliers.
 
@@ -137,6 +142,7 @@ Technoogies Utilisées : JavaScript / HTML / CSS / Firebase / NoSQL / Git
 
 
 ### [PROJET GSB](https://gsbprojectbjd.web.app/)
+<img src="https://gsbprojectbjd.web.app/Images/icons/logo.png" alt="projet gsb" width="40" height="40"/>
 
 Suite à une récente fusion le laboratoire Swiss Bourdin souhaite uniformiser la gestion des frais professionnels des visiteurs médicaux via le développement en interne d’une application WEB intitulée Gsb-AppliFrais. Cette application est destinée à la fois aux visiteurs médicaux et aux comptables en charges de leur gestion. Elle permet de saisir et d’enregistrer tous les frais engagés par les visiteurs médicaux aussi bien pour activité directe (déplacement, restauration et hébergement) que pour les activités annexes (événementiel, conférences, autres).
 
