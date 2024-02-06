@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Villanueva Diego</h1>
-<h3 align="center">A young graduate .NET Developer </h3>
+<h1 align="center">Hello There ! 👋, I'm Villanueva Diego</h1>
+<h3 align="center">Jeune Diplomé Full-Stack Développeur </h3>
 
 Passionné par le code et l'innovation, je suis un développeur informatique .NET avec une soif constante d'apprendre et de créer.
 
