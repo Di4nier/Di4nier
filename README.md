@@ -7,7 +7,6 @@ Passionné par le code et l'innovation, je suis un développeur informatique .NE
 
 <p align="center">
   <img src="https://diego-villanueva.web.app/Images/coding.png" alt="Mobile" style="width: fit-content; height: 7rem;">
-  <img src="https://diego-villanueva.web.app/Images/Accueil/memarioooo.png" alt="Développeur Informatique" style="width: fit-content; height: 16rem;">
   <img src="https://diego-villanueva.web.app/Images/dish.png" alt="Symbol" style="width: fit-content; height: 7rem;">
 </p>
 
